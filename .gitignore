@@ -2,4 +2,4 @@ fitbit.ipynb
 fitbit.py
 fitbitLatest.ipynb
 *.ini
-
+.venv

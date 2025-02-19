@@ -1,0 +1,6 @@
+requests
+numpy
+oauth2
+matplotlib
+selenium
+pandas
